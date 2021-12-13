@@ -18,7 +18,7 @@ export default class DevLogsModule extends ModuleApp {
           name: "WindowDevLogs",
           title: "Dev logs",
           icon: {
-            name: "mdi-text",
+            name: "mdi mdi-text",
             size: "23px"
           },
           size: {
